@@ -28,7 +28,6 @@ LOCAL_SHARED_LIBRARIES := \
 	libcutils \
 	libiwnpi \
 	libengbt \
-	libengfm \
 	libnetutils
 
 
